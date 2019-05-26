@@ -1,7 +1,7 @@
 const Octokit = require('@octokit/rest')
 
 const clientWithAuth = new Octokit({
-  auth: 'token XXX'
+  auth: 'token XXXe0a1f75918970a6e3fafdef6abf17a1d70cac41cXXX'
 })
 
 let octokit = clientWithAuth
