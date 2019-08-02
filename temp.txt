@@ -1,5 +1,4 @@
 npm install git-iam --global
-git-iam --init https://gist.githubusercontent.com/rossjourdain/8d423e6365ed05dc18662e975d0ded3b/raw/9522adfb33d3eadcdc6c5bb38e1c9e2ba9da626b/gitiam-kotare-2019.json
-
+git-iam --init https://gist.github.com/rossjourdain/7ff66a8e1421cdd38c56742d71b5ee51/raw
 
 lsb_release -a
